@@ -1,2 +1,3 @@
 # jupyter_backups
-Alguns Arquivos Jupyter
+Arquivos Jupyter
+- Digital Image Processing
